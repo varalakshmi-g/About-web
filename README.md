@@ -53,6 +53,8 @@ CSS: It stands for Cascading Style Sheet.It is used to style our website.
 
 JavaScript: It is a scripting language used to provide a dynamic behaviour to website.
 
+By using a front-end framework, developers can Speed up development, Reduce code complexity, Achieve consistency across projects.
+ 
 Front end frameworks and libraries:
 
 AngularJS
